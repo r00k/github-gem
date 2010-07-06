@@ -2,8 +2,6 @@
 
 This gem works hand-in-hand with GitHub's API to help you out.
 
-Catch us in the #github room on freenode if you want to get involved.  Or just fork and send a pull request.
-
 ## Getting started
 
 Install it:
@@ -175,6 +173,12 @@ If you want to additionally filter by time:
 Or filter by label:
 
     $ gh issues open --label=ffi
+
+## How to Contribute
+
+If you'd like to get involved, you can catch us in the #github room on freenode.
+
+Or, you can fork away and create an issue. However, please don't send pull requests.
 
 ## Contributors
 
